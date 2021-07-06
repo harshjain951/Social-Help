@@ -3,9 +3,8 @@ import React from 'react';
 const Header = () => {
   return (
     <div>
-      <div>
-        Header goes here!!
-        Social help
+        <div>
+        Yoyo 
         </div>
     </div>
   );
