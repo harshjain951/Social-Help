@@ -5,6 +5,7 @@ const Header = () => {
     <div>
       <div>
         Header goes here!!
+        Social help
         </div>
     </div>
   );
