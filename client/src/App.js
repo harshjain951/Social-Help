@@ -1,9 +1,13 @@
 import React from 'react';
-import Navbar from "./pages/Header";
+import Header from './components/layouts/Header';
+
+
+
+
 function App() {
   return (
     <div className="App">
-      <Navbar/>
+      <Header/>
     </div>
   );
 }
